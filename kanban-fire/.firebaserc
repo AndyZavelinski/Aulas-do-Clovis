@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "cursofirebase-ceecc": {
+      "hosting": {
+        "kanban-fire": [
+          "cursofirebase-ceecc"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "cursofirebase-ceecc"
+  }
+}
